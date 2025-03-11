@@ -4,5 +4,4 @@ Pillow
 python-dotenv
 pydantic
 logging
-base64
 typing
